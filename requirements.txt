@@ -1,0 +1,7 @@
+vllm==0.5.1
+transformers==4.33.2
+tokenizers==0.13.3
+torch==2.3.0
+tqdm
+faiss-gpu==1.7.2
+peft==0.11.1
