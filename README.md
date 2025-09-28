@@ -32,7 +32,7 @@ If you find our work useful, please  cite the paper:
 git clone https://github.com/guankaisi/BSharedRAG
 cd BSharedRAG/
 conda create -n bsharedrag python==3.10
-pip install requirments.txt -r
+pip install -r requirements.txt 
 ```
 
 ## Preparation
